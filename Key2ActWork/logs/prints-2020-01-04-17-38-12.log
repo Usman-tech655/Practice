@@ -1,0 +1,4 @@
+13:24:52.530 [main] INFO  com.key2act.work.Actions.ActionClass - Selecting Item to down:By.xpath: //*[@id='addressSearch']
+13:24:52.627 [main] INFO  com.key2act.work.Actions.ActionClass - Select Item is Enter:By.xpath: //*[@id='addressSearch']
+17:38:09.382 [main] INFO  com.key2act.work.Actions.ActionClass - Enter the Data in Search textbox:By.xpath: //*[@id='addressSearch']
+17:38:12.453 [main] INFO  com.key2act.work.Actions.ActionClass - Selecting Item to down:By.xpath: //*[@id='addressSearch']
